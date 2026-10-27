@@ -5,7 +5,7 @@
 Desenvolvedor Full Stack para o ecossistema SAP (web, mobilidade e integrações) com mais de 20 anos de experiência em TI, atuando na construção de soluções de back office e integrações via serviços REST nas plataformas **SAP ABAP Clássico** e **SAP Business Technology Platform (BTP)**.
  
 📍 Orlândia – SP, Brasil
-📱 +55 16 99413-5892 · 💬 Teams: leosancruz@hotmail.com
+💬 Teams: leosancruz@hotmail.com
 ✉️ executandobytes@gmail.com · ucruzle@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/leonardo-dos-santos-cruz-418527447/) · [GitHub: executandobytes](https://github.com/executandobytes) · [GitHub: ucruzle](https://github.com/ucruzle)
  
